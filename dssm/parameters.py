@@ -1,5 +1,5 @@
-__author__ = 'Junjie HU'
-
+#!/usr/local/bin/python
+# -*- coding:utf-8 -*-
 
 import numpy
 import theano
